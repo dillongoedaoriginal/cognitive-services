@@ -1,4 +1,4 @@
-﻿namespace DillonG.Microsoft.CognitiveServices.Bing.Search
+﻿namespace DillonG.Microsoft.CognitiveServices.Bing.SpellCheck
 {
     public class Suggestion
     {

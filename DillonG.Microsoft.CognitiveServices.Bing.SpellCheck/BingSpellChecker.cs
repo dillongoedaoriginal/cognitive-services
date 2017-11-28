@@ -1,11 +1,11 @@
-﻿using DillonG.Microsoft.CognitiveServices.Bing.Search.Interfaces;
+﻿using DillonG.Microsoft.CognitiveServices.Bing.SpellCheck.Interfaces;
 using Newtonsoft.Json;
 using System.Collections.Generic;
 using System.Net.Http;
 using System.Net.Http.Headers;
 using System.Threading.Tasks;
 
-namespace DillonG.Microsoft.CognitiveServices.Bing.Search
+namespace DillonG.Microsoft.CognitiveServices.Bing.SpellCheck
 {
     public class BingSpellChecker : ISpellChecker
     {
